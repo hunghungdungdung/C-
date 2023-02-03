@@ -6,7 +6,7 @@ int main()
     double a=00;
     double n;
     double S=0;
-    cout << "Nhap so muon duoc nhan doi va chia boi 1 tu 1/2 den:" << endl;
+    cout << "Nhap so muon duoc nhan doi cong 1 va chia boi so do nhan doi cong 2 tu 1/2 den:" << endl;
     cin >> n;
     while (a<n)
     {
